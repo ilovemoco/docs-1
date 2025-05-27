@@ -1,41 +1,49 @@
-# Website
+# TokenUp 文档 
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[英语](README.EN.md) | [中文](README.md) 
 
-### Installation
+<p align="center">
+  <img src="./static/img/logo.svg" alt="SwapX banner" width="400">
+</p>
 
-```
-$ npm i
-```
 
-### Local Development
+    TokenUp 钱包是一款开源且自托管的加密钱包，可让您安全地发送、接收、交换、使用 dApp、购买和质押加密货币，包括XOC、BTC、TON、ETH、SOL、USDT 和 BNB。
+    此存储库是 TokenUp 所有相关文档的来源，为想要探索、理解和构建 TokenUp 的开发者、贡献者和用户提供完整的资源。文档涵盖 TokenUp 的独特功能、技术规格、集成指南以及高效使用的最佳实践。
 
-```
-$ npm run start
-```
+## 目录
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- **TokenUp wallet简介**：TokenUp的使用指南、其核心原理和优势。了解 TokenUp 的通用信息或使用 TokenUp 产品时有用的概念，例如“助记词”和“私钥”等通用概念等。
 
-### Build
+- **用户指南**：TokenUp钱包创建和使用的综合指南，包括获取官方钱包、钱包创建教程、钱包使用设置指南等说明。
 
-```
-$ npm run build
-```
+- **技术规格**：面向开发者的深入技术文档，涵盖TokenUp SDK使用指南、共识机制和集成选项。
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+- **矿工费及网络gas机制**：详细解释TokenUp使用的费用构成以及各种链费用计算原理。
 
-### Deployment
+- **安全实践**：TokenUp生态系统中资产安全保护的基本信息，包括安全交易实践、账户管理和网络安全功能。
 
-Using SSH:
+- **常见问题解答**：常见问题解答集合，可帮助您排除故障，并为用户和开发者遇到的常见问题提供快速解决方案。
 
-```
-$ USE_SSH=true yarn deploy
-```
+## 如何使用此代码库
 
-Not using SSH:
+    1、浏览章节：查看文档章节，查找您需要的指南、技术规范和见解。
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+    2、下载以供离线访问：下载或克隆代码库以离线访问  TokenUp 文档。
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+    3、保持最新：我们会经常更新和改进此代码库的内容。请务必查看最新文档。
+
+## 贡献
+
+我们欢迎社区贡献，使我们的文档尽可能全面和实用。如果您发现任何错误，希望提出改进建议或贡献新内容：
+
+1. **分叉代码库**：创建代码库的个人副本以进行更改。
+2. **进行编辑**：根据需要更新和增强文档。
+3. **提交拉取请求**：完成更新后，请提交拉取请求，向官方代码库提交更改建议。我们的团队将审核并合并已批准的贡献。
+
+## 联系方式
+
+如有任何关于 TokenUp 的问题或支持，请联系我们的支持团队：
+
+**技术支持：**  <support@tokenup.org>
+
+**Telegram/X/git/discord请访问官网获取：** <https://tokenup.org/zh>
