@@ -42,5 +42,20 @@
   },
   "engines": {
     "node": ">=18.0"
-  }
+  },
+  "description": "[英语](README.md) | [中文](README.zh-CN.md)",
+  "main": "docusaurus.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilovemoco/docs-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilovemoco/docs-1/issues"
+  },
+  "homepage": "https://github.com/ilovemoco/docs-1#readme"
 }
