@@ -9,7 +9,7 @@ slug: /
 [English](index.EN.md) | [Chinese](index.md) 
 
 <p align="center">
-<img src="../../static/img/logo.svg" alt="SwapX banner" width="400">
+<img src="../../static/img/logo.svg" alt="SwapX banner" width="400"></img></p>
 
 Wallet, by default, refers to a decentralized Web3 wallet, which is a wallet in which the user has full control over private keys and assets, without relying on third-party institutions (such as banks or exchanges). A Web3 wallet is a digital wallet used to store, send and receive cryptocurrencies and non-fungible tokens (NFTs), etc. Wallets are key tools for accessing and interacting with the Web3 world (including blockchains, decentralized applications (DApps) and other crypto assets).
 
@@ -25,17 +25,15 @@ The TokenUp product series includes mobile wallets and web wallets, building a c
 
 ## Advantages of TokenUp
 
-**Security:** TokenUp uses operating system-level security keys, allowing users to enjoy convenience while doubly protecting asset security.
+* "Security". TokenUp uses operating system-level security keys, allowing users to enjoy convenience while doubly protecting asset security.
 
-**Mobile convenience:** Web3 applications are very difficult to interact on mobile devices, deep linking functions are imperfect, and opening DApps in wallets is difficult for most users to accept. TokenUp provides its own solution, which perfectly solves this problem.
+* "Mobile convenience". Web3 applications are very difficult to interact with on mobile devices, deep linking functions are imperfect, and opening DApps in wallets is difficult for most users to accept. TokenUp provides its own solution, which perfectly solves this problem.
 
-**Web2 friendly:** DApps need wallet support because wallets provide functions such as signatures and on-chain transactions. However, downloading and using wallets is the biggest obstacle that prevents Web2 users from adopting Web3. TokenUp solves this problem perfectly.
+* "Web2 friendly". DApps need wallet support because wallets provide features such as signatures and on-chain transactions. However, downloading and using wallets is the biggest barrier preventing Web2 users from adopting Web3. TokenUp solves this problem perfectly.
+* "Easy access". TokenUp uses the `@tokenup/web3kit` package to interact with multiple chains, reducing development costs.
+* "Startup support". TokenUp has its own DApp platform. After connecting to TokenUp, you can apply for access and get traffic support.
 
-**Easy access:** TokenUp can interact with multiple chains using the `@tokenup/web3kit` package, reducing development costs.
-
-**Startup support:** TokenUp has its own DApp platform. After connecting to TokenUp, you can apply for access and get traffic support.
-
-# Contact us
+## Contact us
 
 **Customer service email:** support@tokenup.org
 

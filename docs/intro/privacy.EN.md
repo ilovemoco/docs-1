@@ -1,11 +1,6 @@
----
-title: Privacy Policy
-sidebar_label: "Privacy Policy"
-sidebar_position: 4
-slug: /privacy
----
 
 # **Privacy Policy**
+
 [English](privacy.EN.md) | [Chinese](privacy.md) 
 
 TokenUp Wallet(hereinafter referred to as "we" or “TokenUp Wallet”) operates the platform (“Platform”) that it makes accessible to its users via website, mobile app, API or by such other means as TokenUp Wallet of its affiliate may prescribe from time to time.

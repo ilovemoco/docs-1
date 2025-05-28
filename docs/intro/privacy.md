@@ -1,9 +1,5 @@
----
-title：隐私政策
-sidebar_label："隐私政策"
-sidebar_position：4
-slug：/privacy
----
+
+
 
 # **隐私政策**
 [英语](privacy.EN.md) | [中文](privacy.md) 
