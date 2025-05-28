@@ -1,136 +1,135 @@
 ---
-title: Privacy Policy
-sidebar_label: "Privacy Policy"
-sidebar_position: 4
-slug: /privacy
+title：隐私政策
+sidebar_label："隐私政策"
+sidebar_position：4
+slug：/privacy
 ---
 
-# **Privacy Policy**
+# **隐私政策**
+[英语](privacy.EN.md) | [中文](privacy.md) 
 
-TokenUp Wallet(hereinafter referred to as "we" or “TokenUp Wallet”) operates the platform (“Platform”) that it makes accessible to its users via website, mobile app, API or by such other means as TokenUp Wallet of its affiliate may prescribe from time to time.
+TokenUp Wallet（以下简称“我们”或“TokenUp Wallet”）运营平台（“平台”），并通过网站、移动应用程序、API 或其关联公司不时规定的其他方式向用户提供访问。
 
-We respect and protect the privacy of our users (hereinafter referred to as "you" or "users"). When you use TokenUp Wallet or any of our services (“Services”), we will collect and use your personal information in accordance with this privacy policy (hereinafter referred to as this "Privacy Policy"). This Privacy Policy describes how we process the personal information collected when you access the Platform. Any subsequent website, application, or service you access is also subject to its own terms of service and privacy policy (if any).
+我们尊重并保护用户（以下简称“您”或“用户”）的隐私。当您使用 TokenUp Wallet 或我们的任何服务（“服务”）时，我们将根据本隐私政策（以下简称“本隐私政策”）收集和使用您的个人信息。本隐私政策描述了我们如何处理您访问平台时收集的个人信息。您后续访问的任何网站、应用程序或服务也受其自身的服务条款和隐私政策（如有）的约束。
 
-You should read this Privacy Policy carefully.
+您应该仔细阅读本隐私政策。
 
-This Privacy Policy can be updated by us online at any time. By accessing the Platform and/or using the Services, it is deemed that you have read and unconditionally accepted these Terms, as may be modified and/or supplemented by TokenUp from time to time without prior notice. If you do not accept the revised terms, please stop using TokenUp Wallet immediately, and your continued use of TokenUp Wallet will be deemed to accept the revised Privacy Policy. Once the revised Privacy Policy is posted on the Platform, it will automatically take effect immediately. This Privacy Policy and other relevant laws and regulations apply to TokenUp Wallet, its Platform, Services and our own DApps on TokenUp Wallet on or in which it is posted, linked or referenced.
+我们可以随时在线更新本隐私政策。通过访问平台和/或使用服务，即表示您已阅读并无条件接受本条款。TokenUp 可能会随时修改和/或补充这些条款，恕不另行通知。如果您不接受修订后的条款，请立即停止使用 TokenUp 钱包。您继续使用 TokenUp 钱包将被视为接受修订后的隐私政策。修订后的隐私政策一经在平台上发布，即自动生效。本隐私政策及其他相关法律法规适用于 TokenUp 钱包、其平台、服务以及我们在 TokenUp 钱包上发布、链接或引用本隐私政策的 DApp。
+### **一、收集的信息**
 
-### **Ⅰ. Collected Information**
+请知悉，为了满足您在 TokenUp 钱包中的服务需求，我们会收集您的以下信息，我们非常重视您的隐私保护。在收集您的信息时，我们将严格遵循“合法、正当、必要”的原则。您需要理解，如果您不提供我们服务所需的相关信息，您在 TokenUp 钱包中的服务体验可能会受到影响。
 
-Please be aware that we collect the following information from you for the purpose of satisfying your service needs in TokenUp Wallet , and we attach great importance to the protection of your privacy. When we collect your information, we will strictly abide by the principle of "lawful, legitimate and necessary". You will need to understand that if you do not provide the relevant information required for our Services, your service experience in TokenUp Wallet may be affected as a result.
+请注意：您在 TokenUp 钱包中的钱包密码、私钥和助记词不会被存储或同步到我们的服务器。我们不提供找回您的钱包密码、私钥和助记词的服务。
 
-Please note: Your wallet password, private key, and mnemonics on TokenUp Wallet are not stored or synchronized to our server. We do not provide Services to retrieve your wallet password, private key, and mnemonic phrase.
+除上述信息外，请注意，当您使用 TokenUp 钱包的特定功能时，我们会在实际收集您的个人信息之前，向您特别提示收集更多个人信息。
 
-In addition to the above, please note that when you use the specific functions of TokenUp Wallet , we will give you a special reminder to collect more personal information from you before actually collecting your personal information.
+当您跳转到第三方 DApp 时，第三方 DApp 可能会收集您的个人信息。 TokenUp 钱包不持有第三方 DApp 收集的您的个人信息。您在第三方 DApp 上填写个人信息时，请务必仔细阅读第三方 DApp 的相关用户协议及隐私说明。对于您在第三方 DApp 上的行为造成的任何损失，我们概不负责。
 
-When you jump to a third-party DApp, the third-party DApp may collect personal information from you. TokenUp Wallet does not hold the personal information collected from you by third-party DApps. When you fill in personal information on third-party DApps, you should pay attention to consult the relevant user agreements and privacy instructions of the third-party DApps. We are not responsible for any losses caused by your actions on third-party DApps.
+在法律法规允许的范围内，我们可能在以下情形无需征得您的授权同意而收集、使用您的个人信息：
 
-To the extent permitted by laws and regulations, we may collect and use your personal information without your authorization and consent under following circumstances:
+**(1) 与国家安全、国防安全有关的；**
 
-**(1) Related to national security and national defense security;**
+**(2) 与公共安全、公共卫生、重大公共利益有关的；**
 
-**(2) Related to public safety, public health, and major public interests;**
+**(3) 与犯罪侦查、起诉、审判和判决执行有关的；**
 
-**(3) Related to criminal investigation, prosecution, trial and execution of judgments;**
+**(4) 经您授权向社会公开收集的个人信息；**
 
-**(4) The collected personal information is disclosed to the public with your authorization;**
+**(5) 从合法公开披露的信息中收集您的个人信息，例如合法的新闻报道、政府信息公开等渠道；**
 
-**(5) Your personal information will be collected from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;**
+**(6) 维护我们服务的安全性和合规性所必需，例如发现和处置产品和服务故障；**
 
-**(6) Necessary for maintaining the security and compliance of our Services, such as finding and dealing with failures of products and services;**
+**(7) 法律法规规定的其他情形。我们通过以下方式收集信息：**
 
-**(7) Other situations stipulated by laws and regulations. We collect information in the following ways:**
+* **a. 当您因任何原因自愿向我们提供信息时；**
+* **b.当您授权我们从第三方获取您的信息时；**
+* **c. 您使用我们的应用程序和服务时；**
+* **d. 当您通过各种沟通渠道与我们的员工联系或互动时，例如通过社交平台、通讯平台、面对面会议、电话、电子邮件、传真和其他信函；**
+* **e. 当您与我们进行交易、联系我们或要求我们联系您时；**
+* **f. 当您需要订阅我们的新闻通讯时；**
+* **g. 我们通过区块链系统复制您的全部或部分交易记录。但您的实际交易记录以区块链系统的记录为准；**
 
-* **a. When you voluntarily provide us with information. for whatever reason;**  
-* **b. When you authorize us to obtain your information from third parties;**  
-* **c. your use of our apps and Services;**  
-* **d. When you contact or interact with our employees through various communication channels, such as through social platforms, communication platforms, face-to-face meetings, telephone calls, emails, faxes and other letters;**  
-* **e. when you transact with us, contact us or ask us to contact you;**  
-* **f. when you require to subscribe to our newsletter;**  
-* **g. We copy all or part of your transaction records through the blockchain system. However, your actual transaction records should be subject to the records of the blockchain system;**
+### **二、我们如何使用您的信息**
 
-### **Ⅱ. How we use your information**
+我们会及时向您发送重要通知，例如软件更新、服务协议以及本隐私政策条款的变更。
 
-We will send you timely important notices such as software updates, service agreements and changes to the terms of this Privacy Policy.
+我们会通过收集您公开的钱包地址和您提供的移动设备信息来处理您提交的反馈。我们收集您的个人信息用于我们的内部审计、数据分析和研究等，以持续提升我们的服务水平。我们将根据《TokenUp 钱包使用条款》和其他相关适用法规，使用用户信息来管理和处理用户的使用行为。
 
-We process the feedback you submit to us by collecting your disclosed wallet address and mobile device information provided. We collect your personal information for our internal audit, data analysis and research, etc., in order to continuously improve our service level. In accordance with the "TokenUp Wallet Terms of Use" and other relevant applicable regulations, we will use user information to manage and process users' usage behavior.
+### **三、您如何管理您的信息**
 
-### **Ⅲ. How you manage your information**
+您在 TokenUp 钱包中对您的个人信息拥有以下自愿控制权：
 
-You have the following voluntary control over your personal information in TokenUp Wallet:
+(1) TokenUp 钱包会向您显示您导入的钱包信息。请注意，您可以通过“资产”部分进行资产的转移和接收。
 
-(1) TokenUp Wallet will show you the information of your imported wallet. Please note that you will be able to transfer and receive assets through the "Assets" section.
+请注意，在TokenUp钱包的“​​安全与隐私”板块，您可以自由进行以下操作：
 
-Please note that in the "Security and Privacy" section of TokenUp Wallet, you can freely conduct the following operations:
+（2）您可以查看您的助记词和私钥；
 
-(2) You may view your mnemonics and private key ;
+请注意，当我们为特定目的收集您的信息时，我们会提前通知您，您有权选择退出。但同时，您知晓，当您选择拒绝提供相关信息时，即表示您放弃使用TokenUp钱包的相关服务。
 
-Please note that when we collect information from you for a specific purpose, we will give you notice in advance and you have the right to opt out. But at the same time, you know that when you choose to refuse to provide relevant information, it means that you give up using the relevant Services of TokenUp Wallet.
+请注意，您和我们都无法控制您的交易记录是否公开，因为基于区块链交易的开源特性，您的交易记录在整个区块链系统中公开透明。
 
-Please note that both you and we have no control over whether your transaction records are made public, because based on the open source nature of the blockchain transaction, your transaction records are open and transparent in the entire blockchain system.
+**请注意，当您使用TokenUp钱包跳转至第三方DApp时，我们的《TokenUp钱包使用条款》和本隐私政策将不再适用，您对第三方DApp上个人信息的控制权也将不再适用。我们建议您在使用第三方DApp前，详细阅读并了解其隐私规则及相关用户服务协议。**
 
-**Please note that when you use TokenUp Wallet to jump to a third-party DApp, our "TokenUp Wallet Terms of Use" and this Privacy Policy will no longer apply, and your control over your personal information on the third-party DApp will no longer apply. We recommend that you read and understand its privacy rules and related user service agreements in detail before using third-party DApps.**
+您有权要求我们更新、变更或删除您的相关信息。您理解，我们可能根据本隐私政策第一条第六款的要求收集您的信息，而无需获得您的授权。
 
-You have the right to ask us to update, change or delete your relevant information. You understand that we may collect your information in accordance with the requirements of Article I, Section (6) of this Privacy Policy without your authorization.
+### **四、我们可能共享或转让您的信息**
 
-### **Ⅳ. We may share or transfer your information**
+(1) 我们将出于商业和法律目的存储您的个人信息。
 
-(1) We will store your personal information for business and legal purposes.
+(2) 未经您的同意，我们不会将您的个人信息出售、交易或转让给第三方。
 
-(2) We will not sell, trade or transfer your personal information to third parties without your consent.
+(3) 如果您同意我们向战略合作伙伴、第三方平台（定义见下文）或其关联方披露您的个人信息，我们可能会向该等实体披露您的个人信息。该等实体将仅将您的个人信息用于您已同意的目的。
 
-(3) If you agree to our disclosure of your personal information to strategic partners, Third Party Platforms (as defined below) or their related parties, we may disclose your personal information to such entities. These entities will only use your personal information for the purposes for which you have agreed.
+(4) 您同意我们可以向以下第三方披露或共享您的个人信息：
 
-(4) You agree that we may disclose or share your personal information with the following third parties:
+* a. 代表我们并向我们提供服务的服务提供商和数据处理者，例如会计、数据处理或管理服务、网站托管、维护和运营服务、邮件消息服务、分析服务、支付交易处理、市场营销等；
+* b. 我们的顾问和专业顾问（例如会计师、律师、审计师）；
+* c. 第三方平台（定义见下文）。当您请求与第三方服务或平台互动时，您的个人信息可能会被披露给第三方平台。更多信息，请参阅下文第八部分“第三方链接和网站”。
 
-* a. Service providers and data processors that represent us and provide services to us, such as accounting, data processing or management services, website hosting, maintenance and operation services, mail messaging services, analytics services, payments for us transaction processing, marketing, etc.;  
-* b. Our consultants and professional advisors (e.g. accountants, lawyers, auditors);  
-* c. Third Party Platforms (as defined below). Your personal information may be disclosed to Third Party Platforms where you have requested to interact with a third-party service or platform. Please see below section VIII on Third Party Links and Websites for more information.
+（5）如果我们出于上述目的需要将您的个人信息传输至任何其他国家/地区，我们将征求您的同意，并确保个人信息接收方拥有与我们同等水平的个人信息保护措施。如果这些国家/地区尚未制定适用于我们与您之间关系的个人信息保护法，我们将与个人信息接收方签订具有法律效力的协议。
 
-(5) If we need to transfer your personal information to any other country for the above purposes, we will obtain your consent and ensure that the recipient of personal information has the same level of personal information protection measures as ours. If those countries or regions do not yet have personal information protection laws that apply to our relationship with you, we will enter into a legally enforceable agreement with the personal information recipient.
+（6）未经您事先同意，本公司不会将您的个人信息共享或转让给任何第三方，但以下情况除外：
 
-(6) Without your prior consent, the company will not share or transfer your personal information to any third party, except in the following cases:
+* **a. 经您授权向公众披露所收集的个人信息；**
+* **b. 从合法公开披露的信息中收集所收集的个人信息，例如合法的新闻报道、政府信息公开等渠道；**
+* **c.根据适用法律法规、法律程序、行政或司法机构的要求，为保护我们或其他方的权利、财产或安全而提供或执行本隐私政策；**
+* **d. 在合并或收购的情况下，如果涉及个人信息的转让，TokenUp Wallet 将要求个人信息接收方继续受本隐私政策的约束。**
 
-* **a. The collected personal information is disclosed to the public with your authorization;**  
-* **b. The collected personal information is collected from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;**  
-* **c. To provide or enforce this Privacy Policy in accordance with applicable laws and regulations, the requirements of legal procedures, administrative or judicial authorities to protect the rights, property or safety of us or other parties;**  
-* **d. In the case of mergers and acquisitions, if the transfer of personal information is involved, TokenUp Wallet will require the recipient of personal information to continue to be bound by this Privacy Policy.**
+### **五、自动数据收集技术**
 
-### **Ⅴ. Automatic data collection technology**
+**我们在应用程序中使用自动数据收集技术。例如：**
 
-**We use automatic data collection technology in our applications. e.g:**
+(1) Cookie（或浏览器 Cookie）。Cookie 是由网站或应用程序的运营商设置的用于识别您的浏览器或设备的小型文本文件。我们可能会在我们的应用程序中使用 Cookie 技术来存储和跟踪信息，例如用户数量和频率、用户分布以及用户的在线偏好。Cookie 不会捕获可识别您身份的信息，但它们收集的信息可以帮助我们分析应用程序的使用情况，从而改善您的体验。您可以在浏览器设置中关闭 Cookie。但这可能会影响应用程序的功能。
 
-(1) Cookies (or browser cookies). Cookies are small text files set by the operator of a website or application to identify your browser or device. We may use cookie technology on our applications to store and track information such as the number and frequency of users, distribution of users, and online preferences of users. Cookies do not capture information that can identify you, but the information they collect can help us analyze the usage of the app to improve your experience. You can turn off cookies in your browser settings. However, this may affect the functionality of the app.
+(2) 网络分析。网络分析是一种收集和评估网页和移动应用程序访问者行为的方法。这包括分析流量模式，例如确定网站或移动应用程序某些功能的访问频率，或了解访问者最感兴趣的信息或服务。我们的应用程序使用第三方工具提供的网络分析服务。
 
-(2) Network analysis. Web analytics is a method of collecting and evaluating the behavior of web page and mobile application visitors. This includes analyzing traffic patterns, for example to determine how often certain features of a website or mobile application are accessed, or to understand what information or services are of most interest to visitors. Our app uses web analytics services provided by third-party tools.
+### **六、我们如何保护您的信息**
 
-### **VI. How we protect your information**
+（1）如果我们停止运营，我们将及时停止收集您的个人信息，在TokenUp钱包上发布停止运营的公告，并在合理的时间内删除或匿名化处理所持有的您的个人信息。
 
-(1) If we cease operations, we will stop the collection of your personal information in a timely manner, announce the notice of stopping operation on TokenUp Wallet, and delete or anonymize your personal information held within a reasonable period of time.
+（2）为了保护您的个人信息，我们将采取数据安全技术措施，提高内部合规水平，加强内部员工信息安全培训，并设置相关数据的安全访问权限，以安全地保护您的隐私信息。
 
-(2) In order to protect your personal information, we will take data security technical measures, improve internal compliance level, increase internal employee information security training, and set security access rights for relevant data to safely protect your private information.
+（3）我们将在TokenUp钱包的“​​消息”部分向您推送安全相关信息，并更新钱包使用和信息保护方面的信息，供您参考。
 
-(3) We will push security related information to you in the "Message" section of TokenUp Wallet, and update the information on wallet usage and information protection for your reference.
+### **七. 免责声明**
 
-### **VII. Disclaimer**
+(1) 请注意，您通过 TokenUp 钱包访问第三方 DApp 后，将适用该第三方 DApp 公布的隐私政策。该第三方 DApp 对您个人信息的收集和使用不受我们控制，且不受本隐私政策的约束。
 
-(1) Please note that after you access a third-party DApp through TokenUp Wallet, the privacy policy published by the third-party DApp will apply. The collection and use of your personal information by this third-party DApp is not under our control and is not subject to this Private Policy.
+(2) 我们无法保证第三方 DApp 会按照我们的要求采取个人信息保护措施。您应谨慎选择和使用第三方 DApp，并妥善保护您的个人信息。我们对其他第三方 DApp 的隐私保护不承担任何责任。
 
-(2) We cannot guarantee that third-party DApps will take personal information protection measures in accordance with our requirements. You should choose and use third-party DApps carefully, and properly protect your personal information. We are not responsible for the privacy protection of other third-party DApps.
+(3) 我们将在现有技术水平下尽可能采取合理的安全措施保护您的个人信息，避免信息泄露、篡改或损坏。我们通过无线方式传输数据，因此我们无法确保通过无线网络传输的数据的隐私性和安全性。
 
-(3) We will take reasonable security measures to protect your personal information as far as possible under the existing technical level, so as to avoid information leakage, tampering or damage. We transmit data wirelessly, therefore, we cannot ensure the privacy and security of data transmitted over wireless networks.
+### **八.第三方链接和网站**
 
-### **VIII. Third Party Links and Websites**
+本服务可能允许您与某些第三方服务、DApp、应用程序和第三方平台（统称“**第三方平台**”）进行交互。但是，本隐私政策不涉及任何第三方的隐私惯例，我们亦不对此负责，包括但不限于运营本服务所链接网站或应用程序的第三方。在服务中包含链接并不意味着我们或我们的关联公司认可所链接网站或应用程序的惯例。您对此类第三方平台的使用以及这些第三方平台对您个人信息的使用均受其各自的使用条款和隐私声明（如有）的约束，且不受本隐私政策的约束。
 
-The Services may enable you to interact with certain third-party services, DApps, applications and third-party platforms (collectively "**Third Party Platforms**"). However, this Privacy Policy does not address, and we are not responsible for, the privacy practices of any third parties, including but not limited to those that operate websites or applications to which the Services link. The inclusion of a link on the Services does not imply that we or our affiliates endorse the practices of the linked website or applications. Your use of such Third Party Platforms and those Third Party Platforms' use of your Personal Information is subject to their respective terms of use and privacy notice (if any) and is not subject to this Privacy Policy.
+如果您试图通过本服务与第三方平台进行交互并根据此类交互的需要共享个人信息，我们将在允许且尽可能的情况下，限制通过使用代理共享的个人信息。
 
-Where you have sought to interact with a Third Party Platform through the Services and to share personal information as required for such interaction, we will seek, where permitted and where possible, to limit the personal information shared through the use of proxies.
+### **九、其他**
 
-### **Ⅸ. Other**
+（1）作为向您提供服务的公司，我们不会主动将您的个人信息提供给本协议约定以外的第三方，除非我们获得您的同意并告知对方其身份、联系方式、处理目的、处理方式等。如后续因服务需要，我们需要处理您的个人敏感信息，我们将再次征求您的意见，并在获得您的同意后使用。
 
-(1) As a company providing Services to you, we will not proactively provide your personal information to third parties other than those agreed in the agreement, unless we obtain your consent and inform the other party of their identity, contact information, processing purpose, and processing method and so on. If later due to service needs, we will process your personal sensitive information, we will seek your opinion again, and use it after obtaining your consent.
+（2）您需要充分了解并遵守您所在司法辖区以及使用我们服务时所有相关的适用法律、法规和规则。如果您在使用我们服务过程中遇到任何关于个人信息使用的问题，您可以通过在TokenUp Wallet上提交反馈与我们联系。
 
-(2) You need to fully understand and abide by all relevant applicable laws, regulations and rules in your jurisdiction and the use of our Services. If you encounter any questions about the use of personal information during the use of our Services, you can contact us by submitting feedback on TokenUp Wallet.
-
-(3) You can view this Privacy Policy and our other applicable Service rules on our Platform or in TokenUp Wallet’s website. Any translated versions of this Privacy Policy are provided for the convenience of users only and are not intended to modify the terms of this policy. In the event of a conflict between the English and non-English versions of this Privacy Policy, the English version shall prevail.
-
+（3）您可以在我们的平台或TokenUp Wallet网站上查看本隐私政策及我们其他适用的服务规则。本隐私政策的任何翻译版本仅为方便用户而提供，并非旨在修改本政策的条款。如果本隐私政策的英文版本与非英文版本存在冲突，则以英文版本为准。
