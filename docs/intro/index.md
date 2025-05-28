@@ -1,18 +1,36 @@
----
-title: What is TokenUp?
-sidebar_label: "What is TokenUp?"
-sidebar_position: 1
-slug: /
----
 
-# What is TokenUp?
+# 什么是 TokenUp?
+[英语](index.EN.md) | [中文](index.md) 
+<p align="center">
+<img src="../../static/img/logo.svg" alt="SwapX banner" width="400"></img></p>
 
-TokenUp is a solution for transitioning from Web2 to Web3, where users no longer need to worry about what a wallet is or concern themselves with the underlying blockchain.
+钱包，默认指的是 去中心化的 Web3 钱包,即用户完全掌控私钥和资产的钱包，无需依赖第三方机构（如银行或交易所）。Web3 钱包是一种数字钱包，用于存储、发送和接收加密货币和 非同质化代币（NFTs） 等。钱包是访问和交互 Web3 世界（包括区块链、去中心化应用（DApps）和其他加密资产）的关键工具。
 
-## Features
+    非同质化代币（NFTs）
 
-1. `Security`. TokenUp leverages operating system-level security Passkeys. This allows users to enjoy convenience while doubling down on security for their assets.
-2. `Convenient on mobile`. Web3 application interaction on mobile is very difficult, with deep linking being incomplete and opening Dapps within wallets being unacceptable to most users. TokenUp provides its own solution, perfectly addressing this point.
-3. `Web2 Friendly`. Dapps require wallet support since wallets provide features like signing and on-chain transactions. However, downloading and using a wallet is the biggest barrier preventing Web2 users from adopting Web3. TokenUp perfectly solves this issue.
-4. `Easy Access`. TokenUp Use `@tokenup/web3kit` package to interact with multiple chains and reduce development costs.
-5. `Start-up Co. Support`. TokenUp has its own Dapp platform. After accessing TokenUp, you can apply for access and will receive traffic support.
+    非同质化代币是一种储存在区块链（数位账本）上的数据单位，它可以代表艺术品等独一无二的数字资产。 其是一种加密代币，但与比特币等加密货币不同，其不可互换。 一个非同质化代币是透过上传一个文件，如艺术品，到非同质化代币拍卖市场，此举将创建一个记录在数字账本上的文件副本，以作为非同质化代币，可以透过加密货币来购买和转售。
+
+# TokenUp 钱包
+
+是全球领先的多链自托管钱包，支持EthereumEVM兼容网络和以太坊Layer2，以及Bitcoin、TRON、Solana等非EVM兼容网络。TokenUp用户的私钥和助记词仅存储在用户自己的设备中，用户的资产完全由用户自己控制。
+
+TokenUp产品系列包括移动端钱包、web端钱包，为用户构建了一个全面的钱包产品服务。使用TokenUp钱包，您可以轻松连接多个主流网络、数千个DApp应用以及整个Web3生态项目！此外，用户还可以享受TokenUp提供的一站式去中心化交易和市场服务。
+
+
+## TokenUp的优势
+
+**安全：** TokenUp 采用操作系统级安全密钥，让用户在享受便捷的同时，资产安全也得到了加倍保障。
+
+**移动端便捷：** Web3 应用在移动设备上的交互非常困难，深度链接功能不完善，在钱包中打开 DApp 对大多数用户来说难以接受。TokenUp 提供了自己的解决方案，完美地解决了这个问题。
+
+**Web2 友好：** DApp 需要钱包支持，因为钱包提供签名和链上交易等功能。然而，下载和使用钱包是阻碍 Web2 用户采用 Web3 的最大障碍。TokenUp 完美地解决了这个问题。
+
+**轻松访问：** TokenUp 使用 `@tokenup/web3kit` 包即可与多条链交互，降低开发成本。
+
+**初创公司支持：** TokenUp 拥有自己的 DApp 平台。接入 TokenUp 后，您可以申请接入并获得流量支持。
+
+# 联系我们
+
+ **客服邮箱：** support@tokenup.org
+
+ **官方网站：** https://tokenup.org
