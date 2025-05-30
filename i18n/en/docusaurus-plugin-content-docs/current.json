@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.studySidebar.category.Start": {
+    "message": "Start",
+    "description": "The label for category Start in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Start.link.generated-index.description": {
+    "message": "Start",
+    "description": "The generated-index page description for category Start in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Public": {
+    "message": "Public",
+    "description": "The label for category Public in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Public.link.generated-index.description": {
+    "message": "Public",
+    "description": "The generated-index page description for category Public in sidebar studySidebar"
+  },
+  "sidebar.sdkSidebar.category.JavaScript-SDK": {
+    "message": "JavaScript-SDK",
+    "description": "The label for category JavaScript-SDK in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.EVM": {
+    "message": "EVM",
+    "description": "The label for category EVM in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.Solana": {
+    "message": "Solana",
+    "description": "The label for category Solana in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.Android-SDK": {
+    "message": "Android-SDK",
+    "description": "The label for category Android-SDK in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.IOS-SDK": {
+    "message": "IOS-SDK",
+    "description": "The label for category IOS-SDK in sidebar sdkSidebar"
+  },
+  "sidebar.studySidebar.category.Intro": {
+    "message": "Intro",
+    "description": "The label for category Intro in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Intro.link.generated-index.description": {
+    "message": "Intro",
+    "description": "The generated-index page description for category Intro in sidebar studySidebar"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.sdkSidebar.category.JavaScript-SDK": {
+    "message": "JavaScript-SDK",
+    "description": "The label for category JavaScript-SDK in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.EVM": {
+    "message": "EVM",
+    "description": "The label for category EVM in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.Solana": {
+    "message": "Solana",
+    "description": "The label for category Solana in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.Android-SDK": {
+    "message": "Android-SDK",
+    "description": "The label for category Android-SDK in sidebar sdkSidebar"
+  },
+  "sidebar.sdkSidebar.category.IOS-SDK": {
+    "message": "IOS-SDK",
+    "description": "The label for category IOS-SDK in sidebar sdkSidebar"
+  },
+  "sidebar.studySidebar.category.Intro": {
+    "message": "钱包概述",
+    "description": "The label for category 钱包概述 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Intro.link.generated-index.description": {
+    "message": "钱包概述",
+    "description": "The generated-index page description for category 钱包概述 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Start": {
+    "message": "开始",
+    "description": "The label for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Start.link.generated-index.description": {
+    "message": "开始",
+    "description": "The generated-index page description for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Public": {
+    "message": "公共知识库",
+    "description": "The label for category 公共知识库 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Public.link.generated-index.description": {
+    "message": "公共知识库",
+    "description": "The generated-index page description for category 公共知识库 in sidebar studySidebar"
+  }
+}
