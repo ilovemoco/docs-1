@@ -1,8 +1,13 @@
-
+---
+title: TokenUp基本概念
+sidebar_label: "TokenUp基本概念"
+sidebar_position: 1
+slug: /
+---
 # 什么是 TokenUp?
-[英语](index.EN.md) | [中文](index.md) 
+
 <p align="center">
-<img src="../../static/img/logo.svg" alt="SwapX banner" width="400"></img></p>
+<img src="./img/logo.svg" alt="SwapX banner" width="400"></img></p>
 
 钱包，默认指的是 去中心化的 Web3 钱包,即用户完全掌控私钥和资产的钱包，无需依赖第三方机构（如银行或交易所）。Web3 钱包是一种数字钱包，用于存储、发送和接收加密货币和 非同质化代币（NFTs） 等。钱包是访问和交互 Web3 世界（包括区块链、去中心化应用（DApps）和其他加密资产）的关键工具。
 

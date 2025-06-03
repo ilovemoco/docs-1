@@ -1,8 +1,10 @@
-
-
-
+---
+title: 隐私政策
+sidebar_label: "隐私政策"
+sidebar_position: 2
+slug: /user-privacy
+---
 # **隐私政策**
-[英语](privacy.EN.md) | [中文](privacy.md) 
 
 TokenUp Wallet（以下简称“我们”或“TokenUp Wallet”）运营平台（“平台”），并通过网站、移动应用程序、API 或其关联公司不时规定的其他方式向用户提供访问。
 

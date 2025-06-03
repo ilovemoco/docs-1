@@ -5,11 +5,10 @@ sidebar_position: 1
 slug: /
 ---
 
-# What is TokenUp?
-[English](index.EN.md) | [Chinese](index.md) 
+# What is TokenUp? 
 
 <p align="center">
-<img src="../../static/img/logo.svg" alt="SwapX banner" width="400"></img></p>
+<img src="/img/logo.svg" alt="SwapX banner" width="400"></img></p>
 
 Wallet, by default, refers to a decentralized Web3 wallet, which is a wallet in which the user has full control over private keys and assets, without relying on third-party institutions (such as banks or exchanges). A Web3 wallet is a digital wallet used to store, send and receive cryptocurrencies and non-fungible tokens (NFTs), etc. Wallets are key tools for accessing and interacting with the Web3 world (including blockchains, decentralized applications (DApps) and other crypto assets).
 

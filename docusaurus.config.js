@@ -34,17 +34,17 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    // locales: ['en'],
     locales: ['en', 'zh'],
     localeConfigs: {
-      // en: {
-      //   label: 'English', // 语言切换器中显示的名称
-      // },
-      zh: {
-        label: '中文（简体）',
-        htmlLang: 'zh',
+       en: {
+        label: 'English',
+        direction: 'ltr', // 语言切换器中显示的名称
       },
-    },
+      zh: {
+        label: '中文',
+        direction: 'ltr',
+      },
+    },   
   },
 
   presets: [
@@ -75,6 +75,8 @@ const config = {
           alt: 'Settlement Logo',
           src: '/img/logo.png',
         },
+       
+        
         items: [
           {
             to: '/',
@@ -88,11 +90,16 @@ const config = {
             position: 'left',
             activeBaseRegex: '^/(evm|solana|android|ios)/',
           },
+          // {
+          //   href: 'https://www.npmjs.com/package/@tokenup/web3kit',
+          //   label: 'Npm',
+          //   position: 'right',
+          // },
           {
-            href: 'https://www.npmjs.com/package/@tokenup/web3kit',
-            label: 'Npm',
-            position: 'right',
-          },
+        type: 'localeDropdown',
+        position: 'right',
+      },
+          
           // {
           //   type: 'localeDropdown', // 添加语言切换器
           //   position: 'right',
