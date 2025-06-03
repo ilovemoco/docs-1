@@ -2,7 +2,7 @@
 title: 什么是去中心化钱包?
 sidebar_label: "什么是去中心化钱包"
 sidebar_position: 2
-slug: /
+slug: /Decentralized_Wallet
 ---
 
 # 什么是去中心化钱包?

@@ -2,7 +2,7 @@
 title: TokenUp基本概念
 sidebar_label: "TokenUp基本概念"
 sidebar_position: 1
-slug: /
+slug: /index
 ---
 # 什么是 TokenUp?
 

@@ -5,39 +5,38 @@ sidebar_position: 6
 slug: /dapp-guide
 ---
 
-# **DApp Guide**
+# **DApp 指南**
 
-# What is a DApp?
+# 什么是 DApp？
 
-DApps (Decentralized Applications) are websites powered by smart contracts that run on blockchains rather than centralized servers. 
+DApp（去中心化应用程序）是由智能合约驱动的网站，它们运行在区块链上，而不是中心化的服务器上。
 
-# What are the precautions for using DApps?
+# 使用 DApp 有哪些注意事项？
 
-1. Using a DApp, check whether the project has an audit report from a legitimate security company. lf the code has not been audited, it can contain malicious functions which may misappropriate user assets.
+1. 使用 DApp 时，请检查项目是否有来自合法安全公司的审计报告。如果代码未经审计，则可能包含恶意函数，从而盗用用户资产。
 
-2. When a DApp asks for approval from you, please check and ensure you are clear about the approved content. Never approve anything that you do not understand.
+2. 当 DApp 向您请求批准时，请检查并确保自己清楚了解批准的内容。切勿批准任何您不理解的内容。
 
-3. In order to avoid repeated approval by users, DApp developers usually set the maximum number of tokens authorized to smart contracts by default. Therefore, when performing authorization, an appropriate limit for the authorized amount of tokens should be set to avoid all of the tokens being stolen from malicious approvals.
+3. 为了避免用户重复批准，DApp 开发者通常会默认设置授权给智能合约的最大代币数量。因此，在进行授权时，应设置适当的代币授权限额，以避免所有代币被恶意批准盗用。
 
-# What are Phishing scams
+# 什么是钓鱼诈骗
 
-Phishing scams usually use email or instant messaging, leading users to a fake website that looks almost identical to the official website, defrauding users of mnemonic phrases or private keys, or inducing users to approve their fraudulent smart contracts to steal user assets.
+钓鱼诈骗通常利用电子邮件或即时通讯工具，将用户引导至与官网几乎一模一样的虚假网站，骗取用户的助记词或私钥，或诱导用户批准其虚假智能合约，从而窃取用户资产。
 
-# How to prevent phishing scams?
+# 如何防范钓鱼诈骗？
 
-1. Don't easily trust the links sent to you by others; don't open any websites sent to you by strangers.
+1. 不要轻易相信他人发送的链接；不要打开陌生人发送的任何网站。
 
-2. Double check whether a link is official before opening it. For example: 'opensea.io' is the official website; 'opensea-official.io' is a phishing website.
+2. 打开链接前，务必仔细确认其是否为官方链接。例如：“opensea.io”是官网；“opensea-official.io”则是钓鱼网站。
 
-3. Do not enter mnemonic phrases and private keys on any website.
+3. 不要在任何网站上输入助记词和私钥。
 
+# 使用 DApp 免责声明
 
-# Disclaimer for using Dapps
+在使用第三方 DApp 前，请务必了解以下免责声明：
 
-Before using third-party DApps, please be sure to understand the following disclaimer:
+1. 第三方 DApp 不属于 TokenUp 的资产，DApp 完全由项目方控制！请务必在使用前了解 DApp 的安全性。
 
-1. Third-party DApps do not belong to TokenUp, and the DApps are completely controlled by the project parties! Please be sure to understand the security of the DApps before using them.
+2. 您理解因使用某个 DApp 而造成的任何损失将由您个人承担，与 TokenUp 无关。
 
-2. You understand that any loss caused by your use of a certain DApp will be borne by you personally and has nothing to do with TokenUp.
-
-3. lf you encounter any problems in the process of using the DApp, you need to contact the third-party project team to solve it yourself.
+3. 如果您在使用 DApp 过程中遇到任何问题，请自行联系第三方项目团队解决。
