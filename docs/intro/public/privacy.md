@@ -2,7 +2,7 @@
 title: privacy
 sidebar_label: "privacy"
 sidebar_position: 2
-slug: /user-privacy
+
 ---
 # **Privacy Policy**
 

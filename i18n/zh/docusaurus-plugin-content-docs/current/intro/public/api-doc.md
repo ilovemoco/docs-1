@@ -2,7 +2,7 @@
 title: API-文档
 sidebar_label: "API-文档"
 sidebar_position: 3
-slug: /api-doc
+
 ---
 
 # Getting Started

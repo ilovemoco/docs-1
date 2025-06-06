@@ -2,7 +2,7 @@
 title: User Agreement
 sidebar_label: "User Agreement"
 sidebar_position: 1
-slug: /user-agreement
+
 ---
 
 # **User Agreement**

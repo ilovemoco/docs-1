@@ -2,7 +2,7 @@
 title: Supporting Chain Type
 sidebar_label: "Supporting Chain Type"
 sidebar_position: 4
-slug: /support-chain
+
 ---
 
 # Supporting Chain Type

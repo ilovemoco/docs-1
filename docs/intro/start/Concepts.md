@@ -2,7 +2,7 @@
 title: Wallet Concepts
 sidebar_label: "Wallet Concepts"
 sidebar_position: 3
-slug: /Concepts
+
 ---
 # Basic Concepts
 

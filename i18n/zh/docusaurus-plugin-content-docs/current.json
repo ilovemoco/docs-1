@@ -3,6 +3,54 @@
     "message": "Next",
     "description": "The label for version current"
   },
+  "sidebar.studySidebar.category.Intro": {
+    "message": "钱包概念",
+    "description": "The label for category 钱包概念 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Intro.link.generated-index.description": {
+    "message": "钱包概念",
+    "description": "The generated-index page description for category 钱包概念 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Start": {
+    "message": "开始",
+    "description": "The label for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Start.link.generated-index.description": {
+    "message": "开始",
+    "description": "The generated-index page description for category 开始 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Manage wallet": {
+    "message": "管理钱包",
+    "description": "The label for category 管理钱包 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Manage wallet.link.generated-index.description": {
+    "message": "管理钱包 ",
+    "description": "The generated-index page description for category 管理钱包  in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.token manage": {
+    "message": "管理代币",
+    "description": "The label for category 管理代币 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.token manage.link.generated-index.description": {
+    "message": "管理代币",
+    "description": "The generated-index page description for category 管理代币 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.use wallet": {
+    "message": "钱包使用",
+    "description": "The label for category 钱包使用 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.use wallet.link.generated-index.description": {
+    "message": "钱包使用",
+    "description": "The generated-index page description for category 钱包使用 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Public": {
+    "message": "公共知识库",
+    "description": "The label for category 公共知识库 in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Public.link.generated-index.description": {
+    "message": "公共知识库",
+    "description": "The generated-index page description for category 公共知识库 in sidebar studySidebar"
+  },
   "sidebar.sdkSidebar.category.JavaScript-SDK": {
     "message": "JavaScript-SDK",
     "description": "The label for category JavaScript-SDK in sidebar sdkSidebar"
@@ -22,29 +70,5 @@
   "sidebar.sdkSidebar.category.IOS-SDK": {
     "message": "IOS-SDK",
     "description": "The label for category IOS-SDK in sidebar sdkSidebar"
-  },
-  "sidebar.studySidebar.category.Intro": {
-    "message": "钱包概述",
-    "description": "The label for category 钱包概述 in sidebar studySidebar"
-  },
-  "sidebar.studySidebar.category.Intro.link.generated-index.description": {
-    "message": "钱包概述",
-    "description": "The generated-index page description for category 钱包概述 in sidebar studySidebar"
-  },
-  "sidebar.studySidebar.category.Start": {
-    "message": "开始",
-    "description": "The label for category 开始 in sidebar studySidebar"
-  },
-  "sidebar.studySidebar.category.Start.link.generated-index.description": {
-    "message": "开始",
-    "description": "The generated-index page description for category 开始 in sidebar studySidebar"
-  },
-  "sidebar.studySidebar.category.Public": {
-    "message": "公共知识库",
-    "description": "The label for category 公共知识库 in sidebar studySidebar"
-  },
-  "sidebar.studySidebar.category.Public.link.generated-index.description": {
-    "message": "公共知识库",
-    "description": "The generated-index page description for category 公共知识库 in sidebar studySidebar"
   }
 }

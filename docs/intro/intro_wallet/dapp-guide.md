@@ -1,8 +1,8 @@
 ---
 title: DApp Guide
 sidebar_label: "DApp Guide"
-sidebar_position: 6
-slug: /dapp-guide
+sidebar_position: 1
+slug: /
 ---
 
 # **DApp Guide**

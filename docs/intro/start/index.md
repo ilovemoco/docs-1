@@ -2,7 +2,7 @@
 title: What is TokenUp?
 sidebar_label: "What is TokenUp?"
 sidebar_position: 1
-slug: /
+
 ---
 
 # What is TokenUp? 

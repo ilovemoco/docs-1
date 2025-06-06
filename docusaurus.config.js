@@ -36,10 +36,10 @@ const config = {
     defaultLocale: 'en',
     locales: ['en', 'zh'],
     localeConfigs: {
-       en: {
-        label: 'English',
-        direction: 'ltr', // 语言切换器中显示的名称
-      },
+     en: {
+      label: 'English',
+      direction: 'ltr',
+     },
       zh: {
         label: '中文',
         direction: 'ltr',

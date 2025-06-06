@@ -3,6 +3,14 @@
     "message": "Next",
     "description": "The label for version current"
   },
+  "sidebar.studySidebar.category.Intro": {
+    "message": "Intro",
+    "description": "The label for category Intro in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Intro.link.generated-index.description": {
+    "message": "Intro",
+    "description": "The generated-index page description for category Intro in sidebar studySidebar"
+  },
   "sidebar.studySidebar.category.Start": {
     "message": "Start",
     "description": "The label for category Start in sidebar studySidebar"
@@ -10,6 +18,30 @@
   "sidebar.studySidebar.category.Start.link.generated-index.description": {
     "message": "Start",
     "description": "The generated-index page description for category Start in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Use wallet": {
+    "message": "Use wallet",
+    "description": "The label for category Use wallet in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Use wallet.link.generated-index.description": {
+    "message": "Use wallet",
+    "description": "The generated-index page description for category Use wallet in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Manage wallet": {
+    "message": "Manage wallet",
+    "description": "The label for category Manage wallet in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.Manage wallet.link.generated-index.description": {
+    "message": "Manage wallet",
+    "description": "The generated-index page description for category Manage wallet in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.token manage": {
+    "message": "token manage",
+    "description": "The label for category token manage in sidebar studySidebar"
+  },
+  "sidebar.studySidebar.category.token manage.link.generated-index.description": {
+    "message": "token manage",
+    "description": "The generated-index page description for category token manage in sidebar studySidebar"
   },
   "sidebar.studySidebar.category.Public": {
     "message": "Public",
@@ -38,13 +70,5 @@
   "sidebar.sdkSidebar.category.IOS-SDK": {
     "message": "IOS-SDK",
     "description": "The label for category IOS-SDK in sidebar sdkSidebar"
-  },
-  "sidebar.studySidebar.category.Intro": {
-    "message": "Intro",
-    "description": "The label for category Intro in sidebar studySidebar"
-  },
-  "sidebar.studySidebar.category.Intro.link.generated-index.description": {
-    "message": "Intro",
-    "description": "The generated-index page description for category Intro in sidebar studySidebar"
   }
 }

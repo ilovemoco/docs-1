@@ -2,7 +2,7 @@
 title: 用户协议
 sidebar_label: "用户协议"
 sidebar_position: 1
-slug: /user-agreement
+
 ---
 
 # **用户协议**

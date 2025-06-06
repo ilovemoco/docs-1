@@ -2,7 +2,7 @@
 title: 支持链类型
 sidebar_label: "支持链类型"
 sidebar_position: 4
-slug: /support-chain
+
 ---
 
 # 支持链类型

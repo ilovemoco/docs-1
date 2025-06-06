@@ -2,7 +2,7 @@
 title: 隐私政策
 sidebar_label: "隐私政策"
 sidebar_position: 2
-slug: /user-privacy
+
 ---
 # **隐私政策**
 

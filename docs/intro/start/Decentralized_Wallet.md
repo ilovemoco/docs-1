@@ -2,7 +2,7 @@
 title: Decentralized Wallet?
 sidebar_label: "Decentralized Wallet"
 sidebar_position: 2
-slug: /Decentralized_Wallet
+
 ---
 # What is a decentralized wallet?
 Decentralized Wallet is a core tool in the blockchain ecosystem. Users can fully control their private keys and assets through it without relying on third-party institutions.

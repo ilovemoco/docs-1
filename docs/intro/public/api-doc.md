@@ -2,7 +2,7 @@
 title: Getting Started
 sidebar_label: "Getting Started"
 sidebar_position: 3
-slug: /api-doc
+
 ---
 
 # Getting Started
