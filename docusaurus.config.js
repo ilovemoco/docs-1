@@ -85,6 +85,12 @@ const config = {
             activeBaseRegex: '^(/[^/]+)?/?$',
           },
           {
+            to : '/operation/manual',
+            label: 'Operation',
+            position: 'left',
+            activeBaseRegex: '^/operation/manual/',
+          },
+          {
             to: '/evm/connect',
             label: 'SDK',
             position: 'left',

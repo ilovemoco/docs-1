@@ -70,5 +70,13 @@
   "sidebar.sdkSidebar.category.IOS-SDK": {
     "message": "IOS-SDK",
     "description": "The label for category IOS-SDK in sidebar sdkSidebar"
+  },
+  "sidebar.operationSidebar.category.Operation Manual": {
+    "message": "Operation Manual",
+    "description": "The label for category Operation Manual in sidebar operationSidebar"
+  },
+  "sidebar.operationSidebar.category.Operation Manual.link.generated-index.description": {
+    "message": "Operation Manual",
+    "description": "The generated-index page description for category Operation Manual in sidebar operationSidebar"
   }
 }
