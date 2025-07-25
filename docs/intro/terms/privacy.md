@@ -2,8 +2,9 @@
 title: privacy
 sidebar_label: "privacy"
 sidebar_position: 2
-
+slug: /privacy
 ---
+
 # **Privacy Policy**
 
 TokenUp Wallet(hereinafter referred to as "we" or “TokenUp Wallet”) operates the platform (“Platform”) that it makes accessible to its users via website, mobile app, API or by such other means as TokenUp Wallet of its affiliate may prescribe from time to time.
@@ -40,13 +41,13 @@ To the extent permitted by laws and regulations, we may collect and use your per
 
 **(7) Other situations stipulated by laws and regulations. We collect information in the following ways:**
 
-* **a. When you voluntarily provide us with information. for whatever reason;**  
-* **b. When you authorize us to obtain your information from third parties;**  
-* **c. your use of our apps and Services;**  
-* **d. When you contact or interact with our employees through various communication channels, such as through social platforms, communication platforms, face-to-face meetings, telephone calls, emails, faxes and other letters;**  
-* **e. when you transact with us, contact us or ask us to contact you;**  
-* **f. when you require to subscribe to our newsletter;**  
-* **g. We copy all or part of your transaction records through the blockchain system. However, your actual transaction records should be subject to the records of the blockchain system;**
+- **a. When you voluntarily provide us with information. for whatever reason;**
+- **b. When you authorize us to obtain your information from third parties;**
+- **c. your use of our apps and Services;**
+- **d. When you contact or interact with our employees through various communication channels, such as through social platforms, communication platforms, face-to-face meetings, telephone calls, emails, faxes and other letters;**
+- **e. when you transact with us, contact us or ask us to contact you;**
+- **f. when you require to subscribe to our newsletter;**
+- **g. We copy all or part of your transaction records through the blockchain system. However, your actual transaction records should be subject to the records of the blockchain system;**
 
 ### **Ⅱ. How we use your information**
 
@@ -82,18 +83,18 @@ You have the right to ask us to update, change or delete your relevant informati
 
 (4) You agree that we may disclose or share your personal information with the following third parties:
 
-* a. Service providers and data processors that represent us and provide services to us, such as accounting, data processing or management services, website hosting, maintenance and operation services, mail messaging services, analytics services, payments for us transaction processing, marketing, etc.;  
-* b. Our consultants and professional advisors (e.g. accountants, lawyers, auditors);  
-* c. Third Party Platforms (as defined below). Your personal information may be disclosed to Third Party Platforms where you have requested to interact with a third-party service or platform. Please see below section VIII on Third Party Links and Websites for more information.
+- a. Service providers and data processors that represent us and provide services to us, such as accounting, data processing or management services, website hosting, maintenance and operation services, mail messaging services, analytics services, payments for us transaction processing, marketing, etc.;
+- b. Our consultants and professional advisors (e.g. accountants, lawyers, auditors);
+- c. Third Party Platforms (as defined below). Your personal information may be disclosed to Third Party Platforms where you have requested to interact with a third-party service or platform. Please see below section VIII on Third Party Links and Websites for more information.
 
 (5) If we need to transfer your personal information to any other country for the above purposes, we will obtain your consent and ensure that the recipient of personal information has the same level of personal information protection measures as ours. If those countries or regions do not yet have personal information protection laws that apply to our relationship with you, we will enter into a legally enforceable agreement with the personal information recipient.
 
 (6) Without your prior consent, the company will not share or transfer your personal information to any third party, except in the following cases:
 
-* **a. The collected personal information is disclosed to the public with your authorization;**  
-* **b. The collected personal information is collected from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;**  
-* **c. To provide or enforce this Privacy Policy in accordance with applicable laws and regulations, the requirements of legal procedures, administrative or judicial authorities to protect the rights, property or safety of us or other parties;**  
-* **d. In the case of mergers and acquisitions, if the transfer of personal information is involved, TokenUp Wallet will require the recipient of personal information to continue to be bound by this Privacy Policy.**
+- **a. The collected personal information is disclosed to the public with your authorization;**
+- **b. The collected personal information is collected from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels;**
+- **c. To provide or enforce this Privacy Policy in accordance with applicable laws and regulations, the requirements of legal procedures, administrative or judicial authorities to protect the rights, property or safety of us or other parties;**
+- **d. In the case of mergers and acquisitions, if the transfer of personal information is involved, TokenUp Wallet will require the recipient of personal information to continue to be bound by this Privacy Policy.**
 
 ### **Ⅴ. Automatic data collection technology**
 
@@ -132,4 +133,3 @@ Where you have sought to interact with a Third Party Platform through the Servic
 (2) You need to fully understand and abide by all relevant applicable laws, regulations and rules in your jurisdiction and the use of our Services. If you encounter any questions about the use of personal information during the use of our Services, you can contact us by submitting feedback on TokenUp Wallet.
 
 (3) You can view this Privacy Policy and our other applicable Service rules on our Platform or in TokenUp Wallet’s website. Any translated versions of this Privacy Policy are provided for the convenience of users only and are not intended to modify the terms of this policy. In the event of a conflict between the English and non-English versions of this Privacy Policy, the English version shall prevail.
-
